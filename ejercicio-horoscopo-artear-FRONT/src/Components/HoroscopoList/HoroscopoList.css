@@ -1,0 +1,112 @@
+ .othersElementsInGrid {
+     width: fit-content;
+     margin: 0.5rem;
+     justify-content: center;
+     width: 48%; 
+     display: flex;
+     flex-direction: row;
+     flex-wrap: wrap;
+     margin: 0.5rem;
+     border-width: 1px;
+     border-style: solid;
+     box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15);
+     padding: 1rem;
+     margin-bottom: 0.5rem;
+     background-color: #f8f9fa;
+     border-radius: 0.25rem;
+     align-items: center;
+     color: black !important;
+     --bs-card-spacer-y: unset !important;
+
+ }
+
+ .othersElementsInList {
+     height: auto; 
+     display: flex;
+     flex-wrap: wrap;
+     margin: 0.5rem;
+     border-width: 1px;
+     border-style: solid;
+     box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15);
+     padding: 1rem;
+     margin-bottom: 0.5rem;
+     background-color: #f8f9fa;
+     border-radius: 0.25rem;
+     color: black !important;
+     --bs-card-spacer-y: unset !important;
+
+ }
+
+ .firstOne {
+     background-color: #b5b51552 !important;
+     width: 100%;
+     padding: 0.5rem;
+     display: flex;
+     flex-direction: row;
+     flex-wrap: wrap;
+     margin: 0.5rem 0rem;
+     border-width: 3px;
+     border-style: solid;
+     box-shadow: 0 1rem 3rem rgba(0, 0, 0, 0.175);
+     padding: 1rem;
+     background-color: #f8f9fa;
+     border-radius: 0.25rem;
+     justify-content: space-between;
+     color: black !important;
+     --bs-card-spacer-y: unset !important;
+ }
+
+ .w-15{
+    width: 15% !important;
+ }
+
+ .card{
+    padding: 0px !important;
+ }
+ .grilla {
+     height: 100%;
+     display: flex;
+     flex-direction: row;
+     flex-wrap: wrap;
+     align-items: stretch;
+     justify-content: center;
+     align-content: flex-start;
+ }
+
+ .lista {
+     height: 100%;
+     display: flex;
+     flex-direction: column;
+     flex-wrap: wrap;
+     align-items: stretch;
+     justify-content: center;
+     align-content: flex-start;
+ }
+
+
+ @media (max-width: 915px) {
+     .w-40 {
+         width: 100%;
+     }
+
+     .othersElementsInList {
+         height: auto !important;
+     }
+
+     .othersElementsInGrid { 
+        width: 100%;
+     }
+
+ }
+
+ @media (max-width: 768px) {
+
+ 
+     .firstOne {
+         flex-direction: column;
+         justify-content: center;
+         text-align: center;
+         align-items: center;
+     }
+
+ }

@@ -1,0 +1,113 @@
+{
+    "zodiac_signs": [
+       {
+          "id":0,
+          "name":"Tauro",
+          "category":"Tierra",
+          "init_date":"20-04",
+          "end_date":"21-05",
+          "prediction":"La introspección no es algo difícil para Tauro. El cierre de la semana les permitirá lograr una proyección de toda su introspección y equilibrio. Los cambios y decisiones de la semana anterior no fueron en vano y, superar ese desafío, no hará más que fortalecerlos.",
+          "image":"tauro.jpg" 
+       },
+       {
+          "id":1,
+          "name":"Aries",
+          "category":"Fuego",
+          "init_date":"21-03",
+          "end_date":"19-04",
+          "prediction":"Aunque las energías bajan, resulta importante aferrarse a todo aquello que hace brillar los ojos de los arianos. El cansancio se hace evidente en la rutina pero el día miércoles un alto voltaje de energía positiva, especialmente proveniente de signos como Tauro o Escorpio, inclinarán la balanza.",
+          "image":"aries.jpg"
+       },
+       {
+          "id":4,
+          "name":"Acuario",
+          "category":"Agua",
+          "init_date":"21-01",
+          "end_date":"19-02",
+          "prediction":"Si bien le cuesta abandonar sus hábitos, debería iniciar algo nuevo. Apueste por una transformación en su vida y así disfrutará de una vitalidad plena.",
+          "image":"acuario.jpg"
+       },
+       {
+          "id":8,
+          "name":"Libra",
+          "category":"Aire",
+          "init_date":"23-09",
+          "end_date":"22-10",
+          "prediction":"La dispersión intentará correrlos de foco. No es la mejor semana para proyectar hacia afuera, pensar en causar buenas impresiones o preocuparse por el que dirán. Géminis no podrá controlar sus emociones y lo ideal es no permitir que estas empañen el proceso introspectivo, tan necesario para el cierre del año.",
+          "image":"libra.jpg"
+       },
+       {
+          "id":18,
+          "name":"Piscis",
+          "category":"Agua",
+          "init_date":"20-02",
+          "end_date":"20-03",
+          "prediction":"Hoy tendrá la oportunidad para dar forma a esos nuevos proyectos y dejar en firme las pautas a las que se tendrá que ajustar su entorno de ahora en más.",
+          "image":"piscis.jpg"
+       },
+       {
+          "id":15,
+          "name":"Géminis",
+          "category":"Aire",
+          "init_date":"22-05",
+          "end_date":"21-06",
+          "prediction":"Siempre que intente exponer sus pensamientos internos, trate de adoptar una conducta diplomática si es que no quiere que el mundo se oponga contra usted.",
+          "image":"geminis.jpg"
+       },
+       {
+          "id":16,
+          "name":"Cáncer",
+          "category":"Agua",
+          "init_date":"22-06",
+          "end_date":"23-07",
+          "prediction":"En determinadas situaciones, debería criticar un poco menos y ser más comprensivo con su entorno cercano. No todos pueden manejarse con la misma rapidez mental.",
+          "image":"cancer.jpg"
+       },
+       {
+          "id":12,
+          "name":"Leo",
+          "category":"Fuego",
+          "init_date":"24-07",
+          "end_date":"23-08",
+          "prediction":"Durante esta jornada, tendrá la posibilidad de conectarse con su entorno de un modo simple y profundo. No desperdicie la oportunidad que le deparará esta jornada.",
+          "image":"leo.jpg"
+       },
+       {
+          "id":19,
+          "name":"Virgo",
+          "category":"Tierra",
+          "init_date":"24-08",
+          "end_date":"22-09",
+          "prediction":"Sepa que una mirada del pasado lo ayudará a solucionar esos inconvenientes del presente. No le tema a los recuerdos que ya ha vivido, son solo pasajeros.",
+          "image":"virgo.jpg"
+       },
+       {
+          "id":21,
+          "name":"Escorpio",
+          "category":"Agua",
+          "init_date":"23-10",
+          "end_date":"22-11",
+          "prediction":"Intente sostener el equilibrio entre lo que desea y lo que otros le demandan. Sepa que todas las partes deben ser escuchadas para que reine la armonía.",
+          "image":"escorpio.jpg"
+       },
+       {
+          "id":22,
+          "name":"Sagitario",
+          "category":"Fuego",
+          "init_date":"23-11",
+          "end_date":"22-12",
+          "prediction":"Aprenda que no siempre los obstáculos son situaciones negativas. Procure descubrir las nuevas opciones que se esconden detrás de las dificultades que uno vivió.",
+          "image":"sagitario.jpg"
+       },
+       {
+          "id":30,
+          "name":"Capricornio",
+          "category":"Tierra",
+          "init_date":"23-12",
+          "end_date":"20-01",
+          "prediction":"Hoy se sentirá lleno de confianza con usted mismo y podrá concretar todos los planes que tiene en mente. Aunque no lo crea, deberá guiarse por sus instintos.",
+          "image":"capricornio.jpg"
+       }
+    ]
+ }
+ 

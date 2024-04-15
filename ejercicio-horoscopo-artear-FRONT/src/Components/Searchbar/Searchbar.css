@@ -1,0 +1,8 @@
+.btnbtn {
+    cursor: pointer;
+}
+
+.noticon {
+    --bs-form-select-bg-img: none;
+}
+ 

@@ -1,0 +1,16 @@
+.effecttext {
+    text-shadow: 1px 5px 6px white !important;
+    font-weight: 700 !important;
+    font-size: x-large !important; 
+    
+}
+
+ 
+@keyframes moveAnimationImg {
+    0% {
+        left: -25%;
+    }
+    100% {
+        left: calc(35% - 100px); /* Mover a la derecha hasta que el borde derecho del texto esté a 100px del borde derecho del contenedor */
+    }
+}
